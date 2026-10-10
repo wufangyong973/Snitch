@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "deps/react-19",
+    "devin/1791205164-windows-fixes",
+    "feat/process-icons",
+    "fix/expand-tracker-list",
+    "fix/fr-translations",
+    "gh-pages",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "deps/react-19": "main",
+    "devin/1791205164-windows-fixes": "main",
+    "feat/process-icons": "main",
+    "fix/expand-tracker-list": "main",
+    "fix/fr-translations": "main",
+    "gh-pages": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "deps/react-19",
+    "devin/1791205164-windows-fixes",
+    "feat/process-icons",
+    "fix/expand-tracker-list",
+    "fix/fr-translations",
+    "gh-pages",
+    "origin"
+  ]
+}
